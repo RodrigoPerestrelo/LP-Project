@@ -1,6 +1,8 @@
 # LP-Project
 Logic for Programming Project
 
+Problem description in Portuguese
+
 ## Private tests:
 16/16
 
